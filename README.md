@@ -1,192 +1,75 @@
+Here is a highly professional, boxed, and organized GitHub README that incorporates everything you asked for. It includes live skill badges, dynamic percentage stats, project progress bars, your specific Python stock market project, and a sleek VS Code animation at the top.
+
+Because you mentioned wanting to expand into AI in the future, I also tailored the intro slightly to reflect your goals of being a software developer leaning into AI engineering.
+
+### How to use this:
+
+1. Copy the code block below.
+2. Go to your GitHub profile repository (`Ayush-Kumar` or whatever your GitHub username is).
+3. Open the `README.md` file, delete the old text, and paste this code.
+4. **Important:** Replace `YOUR_GITHUB_USERNAME` in the two stats URLs (under the 📊 GitHub Stats section) with your actual GitHub username so the live percentage boxes update with your data!
+
+```markdown
 <div align="center">
-
-```python
-# main.py
-class Developer:
-    def __init__(self):
-        self.name = "Ayush Kumar"
-        self.role = "Software Developer"
-        self.status = "Building. Learning. Experimenting."
-
-    def say_hello(self):
-        print("Hello, World! 🕷️")
-
-ayush = Developer()
-ayush.say_hello()
-```
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%95%B7%EF%B8%8F;I'm+Ayush+Kumar;Software+Developer;Currently+Learning+Python+%26+Photoshop" alt="Typing SVG" />
-</div>
-
-<pre align="center">
-        .        .
-         \      /
-          \    /
-       .---(oo)---.
-      /  .-'--'-.  \
-     /  /        \  \
-    (  (  o    o  )  )
-     \  \   ~~   /  /
-      \  '--------'  /
-       '.__________.'
-          |  |  |  |
-          |  |  |  |
-         Friendly Neighborhood
-             Developer
-</pre>
-
-<p align="center">
+  <!-- VS Code / Python Banner -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" alt="VS Code Python Animation">
+  
+  <br>
+  
+  <h1>Hi, I'm Ayush Kumar 👋</h1>
+  <h3>Software Developer & Aspiring AI Engineer</h3>
+  
   <a href="https://www.linkedin.com/in/ayush-kumar-737074382/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ayushkumar&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" />
-</p>
+</div>
+
+<br>
+
+## 🎯 Current Focus & Specialization
+
+> **Currently Learning:** Deepening my knowledge in **Python**, mastering **Photoshop** for design, and continuously exploring new programming languages.
+> **Ultimate Goal:** Building intelligent software systems and complex AI Agents.
 
 ---
 
-<h2 align="center">tech/stack</h2>
+## 💻 Technical Skills
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-</p>
-
----
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### system/status
-
-```
-┌─────────────────────────────────┐
-│          SYSTEM STATUS          │
-├─────────────────────────────────┤
-│                                  │
-│  PYTHON       [████████░░] 80%  │
-│  PHOTOSHOP    [███████░░░] 70%  │
-│  C            [██████░░░░] 60%  │
-│  C++          [█████░░░░░] 50%  │
-│  JAVASCRIPT   [████░░░░░░] 40%  │
-│  HTML/CSS     [███████░░░] 70%  │
-│                                  │
-│  STATUS  :: ONLINE               │
-│  MODE    :: LEARNING + BUILDING  │
-│                                  │
-└─────────────────────────────────┘
-```
-
-</td>
-<td width="50%" valign="top">
-
-### current/focus
-
-```
-01  Python (Core + Projects)
-02  Photoshop (Design)
-03  C / C++ Fundamentals
-04  JavaScript Basics
-05  HTML / CSS
-06  Building Real Projects
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">projects/index</h2>
-
-<table align="center">
-<tr>
-<td width="100%" valign="top">
-
-```
-┌───────────────────────────────────────────────────┐
-│  PROJECT 01 :: Stock Market Analyzing System        │
-├───────────────────────────────────────────────────┤
-│                                                     │
-│  Language   :: Python                              │
-│  Status     :: In Progress                         │
-│  Progress   [█████░░░░░] 50%                        │
-│                                                     │
-│  A system to analyze stock market data,             │
-│  currently halfway complete. More features           │
-│  and improvements planned for the future.            │
-│                                                     │
-└───────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<p align="center"><i>More projects coming soon — this section will keep growing 🚀</i></p>
-
----
-
-<h2 align="center">github://terminal</h2>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-```
-$ git status
-
-On branch main
-
-Learning:
-  python
-  photoshop
-  c / c++
-  javascript
-  html / css
-
-Projects:
-  stock-market-analyzer   [in progress]
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-$ git log --oneline
-
-learn   -> build
-build   -> debug
-debug   -> understand
-understand -> improve
-improve -> repeat
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </div>
 
 ---
 
-<p align="center">
-  <i>"With great code comes great responsibility."</i> 🕷️
-</p>
+## 🛠️ Projects Pipeline
+
+| Project Name | Tech Stack | Progress / Status |
+| :--- | :---: | :--- |
+| **📈 Stock Market Analyzing System** | Python | `[█████▒▒▒▒▒] 50%` (In Development) |
+| **🚀 Desktop AI Agent** | Python / AI | `[▒▒▒▒▒▒▒▒▒▒] 0%` (Future Plan) |
+| **✨ Upcoming Projects...** | TBA | `[▒▒▒▒▒▒▒▒▒▒] 0%` (Planning Phase) |
+
+---
+
+## 📊 Live GitHub Stats & Language Percentages
+
+<div align="center">
+  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username to make these live! -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Live Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Percentages" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>Hello World 🕸️🕷️</h2>
+  <img src="https://media.giphy.com/media/3o7mi4FvM3n3YF90xG/giphy.gif" width="120" alt="Spider-Man" />
+</div>
+
+```
